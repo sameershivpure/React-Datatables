@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.head {
+  background-color: #222;
+  height: 100px;
+  padding: 1%;
+  color: white;
+}
+
+.ctBtnBlock{
+  margin: 2%;
+}
+
+.tb-container{
+  margin-bottom: 5%;
+  border: solid 1px;
+  border-radius: 5px;
+  padding: 2%;
+}
+
+th .form-control{
+  width: 80%;
+  margin-right: 2%;
+}
+
+.tb-container .h3{
+  margin-top: 0;
+  margin-bottom: 2%;
+  font-weight: bold;
+  font-size: large;
+}
+
+.h3 input{
+  font-weight: bold;
+  font-size: x-large;
+}
+
+table .btn-sm{
+  color: #c55;
+  vertical-align: middle;
+}
+
+.form-control[readonly]{
+  border: none;
+  color: #000;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.dialogform{
+  margin-right: 2%;
+  margin-bottom: 2%;
+  padding: 2%;
+  float: right;
+  border: solid 1px;
+  border-radius: 5px;
+}
+
